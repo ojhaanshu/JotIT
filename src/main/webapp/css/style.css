@@ -1,0 +1,38 @@
+.bg-custom{
+	background-color:#009688 ;
+}
+.navbar .nav-item .nav-link{
+	font-size: 20 px;
+	color:black;
+	
+}
+
+.nav-custom .nav-item:hover .nav-link{
+	background-color: white;
+	border-radius: 7px;
+}
+.btn-b :hover{
+	background-color: black;
+	color:white;
+	
+}
+
+.navbar  .proname{
+	
+	
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.div_gradient{
+	
+	background-image: radial-gradient(circle, #002117, #01261b, #012c1f, #023124, #023728, #024532, #02533d, #026148, #017c5c, #019871, #02b586, #06d39c);
+			 height:600px;
+	}
+	
+.card{
+	border:none;
+	box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+	border-radius:25px ;
+		}
+		
